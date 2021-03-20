@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="btn_detail">Detalhes</string>
+    <string name="btn_CheckIn">Check-In</string>
+    <string name="checkin_modal_title">Deseja fazer Check-In nesse evento?</string>
+    <string name="checkin_modal_subtitle">Preencha suas informações</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="lbl_name">Nome</string>
+    <string name="lbl_email">Email</string>
+    <string name="chooser_share_title">Compartilhar com:</string>
+
+    //error messages
+    <string name="error_list_events_msg">Não foi possível listar todos os eventos</string>
+    <string name="error_event_msg">Não foi possível carregar o evento</string>
+    <string name="error_checkin_msg">Não foi possível fazer o check-in</string>
+
+</resources>
